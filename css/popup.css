@@ -1,0 +1,14 @@
+body {
+    position: relative;
+}
+.imgcon {
+    position: absolute;
+    width: 50vw;
+    height: 50vh;
+}
+.icons {
+    position: relative;
+    width: 20px;
+    top:  50px;
+    left: 500px;
+}
